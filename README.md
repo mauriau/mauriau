@@ -16,13 +16,14 @@ J'affectionne aussi beaucoup la technologie **GraphQL** que je trouve beaucoup p
 - 🐘 **PHP / Symfony**
 - 🧪 **PHPUnit / Jest / Cypress / Playwright / Behat / PHPSpec** 
 - 🗄️ **GraphQL / REST**
-- 📦 **Docker** 
+- 📦 **Docker**
+- 🐛 **XDebug / Sentry**
 
 ### Frontend 🌐
 - ⚛️ **React.js** 
 - 📜 **JavaScript / ES6+** 
 - 🎨 **CSS / DesignSystem**
-- 
+
 ### DevOps 🛠️
 - 🛳️ **Docker** 
 - 🌩️ **CI/CD**
