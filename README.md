@@ -1,6 +1,6 @@
 # 💻 Maxime Auriau - Développeur Fullstack
 
-Salut ! Je suis **Maxime**, développeur **fullstack** passionné le développement web et logiciel
+Salut ! Je suis **Maxime**, développeur **fullstack** passionné le développement web et logiciel.
 Avec plus de **10 ans d'expérience**, je me spécialise dans les **PHP/Symfony - ReactJS - GraphQL** 
 J'ai une préférence pour le backend avec une tendance ops. En effet, j'aime avant tout donner une bonne expérience développeur à l'équipe en automatisant le plus possible ce qui peut l'être.
 
@@ -8,6 +8,8 @@ Je suis avant tout un **amoureux de PHP**, que j'ai commencé par PHP 5.3 et ai 
 Aujourd'hui, **je souhaite m'ouvrir à tout type de stack**. Que ce soit du Java ou du Js. En vrai, avec mon expérience et mes compétences, tant que c'est bien **structuré** et objet, ça ne me dérange pas. Je me suis essayé à **SpringBoot**, c'est très **proche de Symfony**, je ne suis pas perdu. De même, les frameworks comme **NestJS ou .Net, m'intéressent** et si à ça on ajoute de la clean archi, c'est parfait.
 
 J'affectionne aussi beaucoup la technologie **GraphQL** que je trouve beaucoup plus pratique que REST, notamment par le typage et sa proximité avec le produit.
+
+Après plus de **4 ans en full remote** (qui m'a permis de quitter Paris), je recherche un poste au **format hybride**. Avant tout, je recherche une **bonne ambiance** qui me permet de me **projeter et de m'épanouir au travail**.
 
 ---
 
