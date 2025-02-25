@@ -5,7 +5,7 @@ Avec plus de **10 ans d'expérience**, je me spécialise dans les **PHP/Symfony 
 J'ai une préférence pour le backend avec une tendance ops. En effet, j'aime avant tout donner une bonne expérience développeur à l'équipe en automatisant le plus possible ce qui peut l'être.
 
 Je suis avant tout un **amoureux de PHP**, que j'ai commencé par PHP 5.3 et ai vu grandir. Le langage en a parcouru du chemin et n'a jamais été aussi bien qu'aujourd'hui.
-Mais bon, aujourd'hui le marché sur mon secteur étant orienté Java, je switch donc de langage. Une formalité, SpringBoot étant très proche de Symfony, je ne suis pas perdu.
+Aujourd'hui, **je souhaite m'ouvrir à tout type de stack**. Que ce soit du Java ou du Js. En vrai, avec mon expérience et mes compétences, tant que c'est bien **structuré** et objet, ça ne me dérange pas. Je me suis essayé à **SpringBoot**, c'est très **proche de Symfony**, je ne suis pas perdu. De même, les frameworks comme **NestJS ou .Net, m'intéressent** et si à ça on ajoute de la clean archi, c'est parfait.
 
 J'affectionne aussi beaucoup la technologie **GraphQL** que je trouve beaucoup plus pratique que REST, notamment par le typage et sa proximité avec le produit.
 
@@ -15,18 +15,18 @@ J'affectionne aussi beaucoup la technologie **GraphQL** que je trouve beaucoup p
 
 ### Backend ⚙️
 - 🐘 **PHP / Symfony**
-- 🧪 **PHPUnit / Jest / Cypress / Playwright / Behat / PHPSpec** 
+- 🧪 **Test unitaire/e2e -> PHPUnit / Jest / Cypress / Playwright / Behat / PHPSpec** 
 - 🗄️ **GraphQL / REST**
-- 📦 **Docker**
 - 🐛 **XDebug / Sentry**
 
 ### Frontend 🌐
 - ⚛️ **React.js** 
 - 📜 **JavaScript / ES6+** 
-- 🎨 **CSS / DesignSystem**
+- 🎨 **DesignSystem**
 
 ### DevOps 🛠️
-- 🛳️ **Docker** 
+- 🛳️ **Docker / Docker Compose**
+- 🔧 **Dependabot/Renovate**
 - 🌩️ **CI/CD**
 - 📦 **GitlabCI**
 - 🔍 **Debugging & Monitoring**
